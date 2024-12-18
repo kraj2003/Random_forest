@@ -6,3 +6,5 @@
 Package. Wellness Tourism is defined as Travel that allows the traveler to maintain, enhance or kick-start a healthy lifestyle, and support or increase one's sense of well-being. However, this time company wants
  to harness the available data of existing and potential customers to make the marketing expenditure more efficient.</p>
  
+<h3>2) Data Collection.</h3>
+<p>The Dataset is collected from https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction The data consists of 20 column and 4888 rows.</p>
